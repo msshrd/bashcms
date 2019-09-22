@@ -1,0 +1,5 @@
+contents="bashcms_contents"		# 記事リポジトリの名前
+contents_owner="msshrd"			# 記事リポジトリの持ち主のユーザ名
+wwwdir="/var/www"			# 記事リポジトリやbashcmsを置くディレクトリ
+contentsdir="$wwwdir/$contents"		# 記事リポジトリのパス
+appdir="$wwwdir/bashcms"		# bashcmsをインストールするパス
